@@ -1,0 +1,175 @@
+﻿.extensible-cal-icon-evt-edit {
+    background-image:url(../images/default/silk/calendar_edit.png) !important;
+}
+.extensible-cal-icon-evt-del {
+    background-image:url(../images/default/silk/cross.png) !important;
+}
+.extensible-cal-icon-evt-move {
+    background-image:url(../images/default/silk/date_go.png) !important;
+}
+
+.Accept{background-image:url(../icons/accept.png)!important;}
+.Add{background-image:url(../icons/add.png)!important;}
+.Delete{background-image:url(../icons/delete.png)!important;}
+.Bulletedit{background-image:url(../icons/bullet_edit.png)!important;}
+.Cancel{background-image:url(../icons/cancel.png)!important;}
+.Exclamation{background-image:url(../icons/exclamation.png)!important;}
+.Reload{background-image:url(../icons/reload.png)!important;}
+.Report{background-image:url(../icons/report.png)!important;}
+.Reportadd{background-image:url(../icons/report_add.png)!important;}
+.Reportdelete{background-image:url(../icons/report_delete.png)!important;}
+.Magnifier{background-image:url(../icons/magnifier.png)!important;}
+.Photo{background-image:url(../icons/photo.png)!important;}
+.Photos{background-image:url(../icons/photos.png)!important;}
+.Photoadd{background-image:url(../icons/photo_add.png)!important;}
+.Photodelete{background-image:url(../icons/photo_delete.png)!important;}
+.Photoedit{background-image:url(../icons/photo_edit.png)!important;}
+.Photolink{background-image:url(../icons/photo_link.png)!important;}
+.reportEdit{background-image:url(../icons/_edit.png)!important;background-repeat: no-repeat;}
+.reportShenhe{background-image:url(../icons/shenhe.png)!important;background-repeat: no-repeat;}
+.reportPrint{background-image:url(../icons/_print.png)!important;background-repeat: no-repeat;}
+.reportQuery{background-image:url(../icons/_check.png)!important;background-repeat: no-repeat;}
+.videoStart{background-image:url(../icons/videoStart.png)!important;background-repeat: no-repeat;}
+.refresh{background-image:url(../icons/refresh.png)!important;background-repeat: no-repeat;}
+.myicon {background-image: url(../icons/add.png);background-repeat: no-repeat;}
+.quit {background: url(../icons/exit.png) -2px -4px;width:30px;height:26px;border-radius:5px;border:1px solid #848484;}
+.notification {background: url(../icons/notification.png) -2px -4px;width:30px;height:26px;border:0px;}
+.x-grid-tree-node-expanded .myicon{background-image: url(../icons/add.png);}
+.x-list-icons_user {background-image: url(../icons/user24.png);background-repeat: no-repeat;padding-left:20px;}
+.x-grid-icons_user {background-image: url(../icons/user24.png);background-repeat: no-repeat;padding-left:20px;height: 16px;}
+
+.x-list-icons_user_edit {background-image: url(../icons/user_edit.png);background-repeat: no-repeat;padding-left:20px;}
+.x-grid-icons_user_edit {background-image: url(../icons/user_edit.png);background-repeat: no-repeat;padding-left:20px;height: 16px;}
+
+.x-list-icons_user_red {background-image: url(../icons/user_red.png);background-repeat: no-repeat;padding-left:20px;}
+.x-grid-icons_user_red {background-image: url(../icons/user_red.png);background-repeat: no-repeat;padding-left:20px;height: 16px;}
+
+.x-list-icons_user_suit {background-image: url(../icons/user_suit.png);background-repeat: no-repeat;padding-left:20px;}
+.x-grid-icons_user_suit {background-image: url(../icons/user_suit.png);background-repeat: no-repeat;padding-left:20px;height: 16px;}
+/*工作台图标*/
+.checking_arrangement {background-image: url(../icons/checking_arrangement24.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.diary {background-image: url(../icons/diary24.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.doctor {background-image: url(../icons/doctor24.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.document_management {background-image: url(../icons/document_management24.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.drug {background-image: url(../icons/drug24.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.emr {background-image: url(../icons/emr24.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.Facilities_Administration {background-image: url(../icons/Facilities_Administration24.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.health_record {background-image: url(../icons/health_record24.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.hospital_manage {background-image: url(../icons/hospital_manage24.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.manager {background-image: url(../icons/manager24.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.Nurse {background-image: url(../icons/nurse_arrange24.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.technician {background-image: url(../icons/technician24.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.technician {background-image: url(../icons/technician24.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.nurse_arrange {background-image: url(../icons/nurse_arrange24.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.config_information{background-image: url(../icons/config_information.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.operation_information {background-image: url(../icons/operation_information24.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.patient {background-image: url(../icons/patient24.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.patient2_list {background-image: url(../icons/patient2_list24.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.patient_list {background-image: url(../icons/patient_list24.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.search_project {background-image: url(../icons/search_project24.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.surgery_arrange {background-image: url(../icons/surgery_arrange24.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.user {background-image: url(../icons/user24.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.video_setting {background-image: url(../icons/video_setting24.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.view_nurse_arrange {background-image: url(../icons/view_nurse_arrange24.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.view_surgery_arrange {background-image: url(../icons/view_surgery_arrange24.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.work_setting {background-image: url(../icons/work_setting24.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.workspace_setting {background-image: url(../icons/workspace_setting24.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.running {background-image: url(../icons/operation.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.appliance {background-image: url(../icons/appliance.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.begin_operation {background-image: url(../icons/begin_operation.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.ready_sys {background-image: url(../icons/ready_sys.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.ended{background-image: url(../icons/ended.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height:30px;}
+
+.his_sys {background-image: url(../icons/system/his_sys.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.surgery_sys {background-image: url(../icons/system/surgery_sys.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.quanxian_sys {background-image: url(../icons/system/quanxian_sys.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.ris_sys {background-image: url(../icons/system/ris_sys.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.basic_sys {background-image: url(../icons/system/basic_sys.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.video_sys {background-image: url(../icons/system/video_sys.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.config_sys {background-image: url(../icons/system/config_sys.png);background-position:5% 50%;background-repeat: no-repeat;padding-left:10px;height: 30px;}
+.save{background:url(../icons/save.png) no-repeat center center #fff;}
+
+.x-grid-tree-node-expanded .checking_arrangement {background-image: url(../icons/checking_arrangement24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .configuration_information {background-image: url(../icons/configuration_information24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .diary {background-image: url(../icons/diary24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .doctor {background-image: url(../icons/doctor24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .document_management {background-image: url(../icons/document_management24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .drug {background-image: url(../icons/drug24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .emr {background-image: url(../icons/emr24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .Facilities_Administration {background-image: url(../icons/Facilities_Administration24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .health_record {background-image: url(../icons/health_record24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .hospital_manage {background-image: url(../icons/hospital_manage24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .mwl_list {background-image: url(../icons/mwl_list24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .Nurse {background-image: url(../icons/nurse_arrange24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .technician {background-image: url(../icons/technician24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .manager {background-image: url(../icons/manager24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .nurse_arrange {background-image: url(../icons/nurse_arrange24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .operation_information {background-image: url(../icons/operation_information24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .patient {background-image: url(../icons/patient24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .patient2_list {background-image: url(../icons/patient2_list24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .patient_list {background-image: url(../icons/patient_list24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .search_project {background-image: url(../icons/search_project24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .surgery_arrange {background-image: url(../icons/surgery_arrange24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .user {background-image: url(../icons/user24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .video_setting {background-image: url(../icons/video_setting24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .view_nurse_arrange {background-image: url(../icons/view_nurse_arrange24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .view_surgery_arrange {background-image: url(../icons/view_surgery_arrange24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .work_setting {background-image: url(../icons/work_setting24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .workspace_setting {background-image: url(../icons/workspace_setting24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .ready_sys {background-image: url(../icons/ready_sys.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+/*1030*/
+.x-grid-tree-node-expanded .basic_sys {background-image: url(../icons/system/basic_sys.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .config_sys {background-image: url(../icons/system/config_sys.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .his_sys {background-image: url(../icons/system/his_sys.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .quanxian_sys {background-image: url(../icons/system/quanxian_sys.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .ris_sys {background-image: url(../icons/system/ris_sys.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .surgery_sys {background-image: url(../icons/system/surgery_sys.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-tree-node-expanded .video_sys {background-image: url(../icons/system/video_sys.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+
+
+
+.x-grid-data-row .checking_arrangement {background-image: url(../icons/checking_arrangement24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .configuration_information {background-image: url(../icons/configuration_information24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .diary {background-image: url(../icons/diary24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .doctor {background-image: url(../icons/doctor24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .document_management {background-image: url(../icons/document_management24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .drug {background-image: url(../icons/drug24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .emr {background-image: url(../icons/emr24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .Facilities_Administration {background-image: url(../icons/Facilities_Administration24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .health_record {background-image: url(../icons/health_record24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .hospital_manage {background-image: url(../icons/hospital_manage24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .mwl_list {background-image: url(../icons/mwl_list24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .Nurse {background-image: url(../icons/nurse_arrange24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .technician {background-image: url(../icons/technician24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .manager {background-image: url(../icons/manager24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .nurse_arrange {background-image: url(../icons/nurse_arrange24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .operation_information {background-image: url(../icons/operation_information24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .patient {background-image: url(../icons/patient24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .patient2_list {background-image: url(../icons/patient2_list24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .patient_list {background-image: url(../icons/patient_list24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .search_project {background-image: url(../icons/search_project24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .surgery_arrange {background-image: url(../icons/surgery_arrange24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .user {background-image: url(../icons/user24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .video_setting {background-image: url(../icons/video_setting24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .view_nurse_arrange {background-image: url(../icons/view_nurse_arrange24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .view_surgery_arrange {background-image: url(../icons/view_surgery_arrange24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .work_setting {background-image: url(../icons/work_setting24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .workspace_setting {background-image: url(../icons/workspace_setting24.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .ready_sys {background-image: url(../icons/ready_sys.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+
+
+/*1030*/
+.x-grid-data-row .basic_sys {background-image: url(../icons/system/basic_sys.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .config_sys {background-image: url(../icons/system/config_sys.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .his_sys {background-image: url(../icons/system/his_sys.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .quanxian_sys {background-image: url(../icons/system/quanxian_sys.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .ris_sys {background-image: url(../icons/system/ris_sys.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .surgery_sys {background-image: url(../icons/system/surgery_sys.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+.x-grid-data-row .video_sys {background-image: url(../icons/system/video_sys.png);background-repeat: no-repeat;padding-left:30px;height: 24px;}
+
+
+
+
+
+
+
